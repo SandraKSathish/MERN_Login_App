@@ -36,6 +36,6 @@ Nodejs
 ⚙️ Install
 After installing node and npm run the following commands to clone the repo and install all the dependencies that is used for this application.
 
-$ git clone 
-$ cd LearnerTracker
+$ git clone https://github.com/SandraKSathish/MERN_Login_App.git
+$ cd MERN_Login_App
 $ npm install
